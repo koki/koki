@@ -1,0 +1,4 @@
+site_name: Koki
+pages:
+ - Home: index.md
+theme: cinder
