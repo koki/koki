@@ -1,0 +1,8 @@
+site_name: Koki
+pages:
+ - Home: index.md
+ - Short: short/index.md
+theme: cinder
+repo_url: https://github.com/koki/koki
+extra_css:
+   - custom/tweaks.css
