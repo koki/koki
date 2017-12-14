@@ -6,3 +6,4 @@ theme: cinder
 repo_url: https://github.com/koki/koki
 extra_css:
    - custom/tweaks.css
+site_favicon: favicon.ico
